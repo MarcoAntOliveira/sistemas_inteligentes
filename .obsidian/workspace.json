@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "7283f9654d40ac00",
+    "type": "split",
+    "children": [
+      {
+        "id": "fffce46b67791b90",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2648ac4b67941478",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "labirinto/diagrama.canvas",
+                "viewState": {
+                  "x": -642.9074498573489,
+                  "y": -392.4471302153519,
+                  "zoom": -0.3433236672478785
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "diagrama"
+            }
+          }
+        ]
+      },
+      {
+        "id": "90be67b76e519f1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b8da8ea030d4b07c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "labirinto/README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "456e484105380b6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f915669b51d3189",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "968221a97f3d434d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "fa5d9788c9e184e0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a0360e40dae2799f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "21376ab33a71ae95",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d286bd1ce61a418",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5796137dfa3d3c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "labirinto/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "0cb9ca868a4695c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "labirinto/README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "59a70f786377d51c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a8b381a8cf381b77",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "labirinto/README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b8da8ea030d4b07c",
+  "lastOpenFiles": [
+    "perceptron/CMakeLists.txt",
+    "perceptron/include",
+    "perceptron/src",
+    "perceptron/build",
+    "perceptron",
+    "labirinto/README.md",
+    "labirinto/diagrama.canvas",
+    "README.md",
+    "labirinto/tree.py",
+    "labirinto/teste2.py",
+    "labirinto/screen.py",
+    "labirinto/screen_dict.py",
+    "labirinto/requirements.txt",
+    "labirinto/random_maze.py",
+    "labirinto/amb4/lib/python3.10/site-packages/pygame/tests/fixtures/fonts/u13079_PyGameMono-8.png",
+    "labirinto/amb4/lib/python3.10/site-packages/pygame/tests/fixtures/fonts/A_PyGameMono-8.png",
+    "labirinto/amb4/lib/python3.10/site-packages/pygame/docs/generated/_images/tom_radians.png",
+    "labirinto/amb4/lib/python3.10/site-packages/pygame/docs/generated/_images/tom_formulae.png",
+    "labirinto/amb4/lib/python3.10/site-packages/pygame/docs/generated/_images/tom_event-flowchart.png",
+    "labirinto/amb4/lib/python3.10/site-packages/pygame/docs/generated/_images/tom_basic.png",
+    "labirinto/amb4/lib/python3.10/site-packages/pygame/docs/generated/_images/surfarray_xfade.png",
+    "labirinto/amb4/lib/python3.10/site-packages/pygame/docs/generated/_images/surfarray_striped.png",
+    "labirinto/amb4/lib/python3.10/site-packages/pygame/docs/generated/_images/surfarray_soften.png",
+    "labirinto/amb4/lib/python3.10/site-packages/pygame/docs/generated/_images/surfarray_scaleup.png",
+    "labirinto/trab1/README.md",
+    "trab1/README.md"
+  ]
+}

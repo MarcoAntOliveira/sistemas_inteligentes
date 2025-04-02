@@ -14,9 +14,7 @@ A operação de uma unidade de processamento, proposta por McCullock e Pitts em 
 Suponha que tenhamos p sinais de entrada $X_1, X_2, ..., X_p$ e pesos $w_1, w_2, ..., w_p$ e limitador t; com sinais assumindo valores booleanos (0 ou 1) e pesos valores reais.
 
 Neste modelo, o nível de atividade a é dado por:
-$$
-a = w_1X_1 + w_2X_2 + ... + w_pX_p
-$$
+$$a = w_1X_1 + w_2X_2 + ... + w_pX_p$$
 A saída y é dada por <br>
 $
 y = 1,
@@ -48,3 +46,7 @@ Uma rede neural é especificada, principalmente pela sua topologia, pelas caract
 
 #### Tabela verdade
 ![alt text](images/image-1.png)
+
+
+## Busca contra adversário
+A idéia de que o sistema as condições do meio em que o agente esteja inserido , para teste dos parametro do controlador
