@@ -52,9 +52,20 @@ Uma rede neural é especificada, principalmente pela sua topologia, pelas caract
 A idéia de que o sistema as condições do meio em que o agente esteja inserido , para teste dos parametro .
 
 ---
+Matriz de Confusão:
+
+                 Real
+              +         -
+Predito  +   |  TP   |  FP   |
+           -   |  FN   |  TN   |
+
+- TP: True Positive
+- FP: False Positive
+- TN: True Negative
+- FN: False Negative
 
 Matriz de Confusão
-
+$$
 TP: True Positive
 
 FP: False Positive
@@ -62,8 +73,7 @@ FP: False Positive
 TN: True Negative
 
 FN: False Negative
-
-
+$$
 
 ---
 
@@ -72,23 +82,23 @@ Métricas
 Revocação (Recall):
 
 
-\frac{TP}{TP + FN}
+$$\frac{TP}{TP + FN}$$
 
 Acurácia (Accuracy):
 
 
-\frac{TP + TN}{TP + FP + TN + FN}
+$$\frac{TP + TN}{TP + FP + TN + FN}$$
 
 Erro (Error Rate):
 
 
-\frac{FP + FN}{TP + FP + TN + FN}
+$$\frac{FP + FN}{TP + FP + TN + FN}$$
 
 Precisão (Precision):
 
 
-\frac{TP}{TP + FP}
+$$\frac{TP}{TP + FP}$$
 
-Se quiser, posso transformar esse conteúdo num PDF, incluir gráficos ou explicações extras. Deseja isso?
+
 
 
