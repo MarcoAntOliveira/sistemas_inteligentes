@@ -1,4 +1,4 @@
-# Sistemas inteligentes
+# Sistemas inteligente
 
 ## Redes neurais
 
@@ -49,4 +49,46 @@ Uma rede neural é especificada, principalmente pela sua topologia, pelas caract
 
 
 ## Busca contra adversário
-A idéia de que o sistema as condições do meio em que o agente esteja inserido , para teste dos parametro do controlador
+A idéia de que o sistema as condições do meio em que o agente esteja inserido , para teste dos parametro .
+
+---
+
+Matriz de Confusão
+
+TP: True Positive
+
+FP: False Positive
+
+TN: True Negative
+
+FN: False Negative
+
+
+
+---
+
+Métricas
+
+Revocação (Recall):
+
+
+\frac{TP}{TP + FN}
+
+Acurácia (Accuracy):
+
+
+\frac{TP + TN}{TP + FP + TN + FN}
+
+Erro (Error Rate):
+
+
+\frac{FP + FN}{TP + FP + TN + FN}
+
+Precisão (Precision):
+
+
+\frac{TP}{TP + FP}
+
+Se quiser, posso transformar esse conteúdo num PDF, incluir gráficos ou explicações extras. Deseja isso?
+
+
